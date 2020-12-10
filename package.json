@@ -5,6 +5,9 @@
   "author": "Sammy the Shark <sammy@example.com>",
   "license": "MIT",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }, 
   "keywords": [
     "nodejs",
     "bootstrap",
